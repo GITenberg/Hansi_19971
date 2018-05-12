@@ -1,0 +1,28 @@
+_repo: Hansi_19971
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frohnmeyer, Ida
+    birthdate: 1882
+    deathdate: 1968
+    gutenberg_agent_id: '8998'
+    url: http://www.gutenberg.org/2009/agents/8998
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2006-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19971'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Children''s literature'
+title: Hansi
+url: http://www.gutenberg.org/ebooks/19971
